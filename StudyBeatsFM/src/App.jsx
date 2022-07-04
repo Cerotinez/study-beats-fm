@@ -249,7 +249,7 @@ function App() {
   return (
     <div className="interfaceContainer">
       <div className="radioContainer">
-        <div className="logo">StudyBeats</div>
+        <div className="logo">Yêu em</div>
         <div className="subHeading"></div>
         <div className="radioStationsContainer">
           <RadioStations
